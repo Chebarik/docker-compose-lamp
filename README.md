@@ -285,7 +285,7 @@ We are happy if you want to create a pull request or help people with their issu
 
 > Please note that we simplified the project structure from several branches for each php version, to one centralized master branch. Please create your PR against master branch.
 >
-> Thank you! 1212
+> Thank you! 121233
 
 ## Why you shouldn't use this stack unmodified in production
 
