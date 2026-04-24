@@ -15,7 +15,7 @@ As of now, we have several different PHP versions. Use appropriate php version a
 - 5.4.x
 - 5.6.x
 - 7.1.x
-- 7.2.x
+- 7.2.x231313
 - 7.3.x
 - 7.4.x
 - 8.0.x
